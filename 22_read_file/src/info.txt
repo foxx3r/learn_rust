@@ -1,0 +1,17 @@
+Hello, my name is Gabriel, I'm a student of progtamation and I still work in Google as IT technician. My abilities includes:
+
+- ReactJS
+- Clean Code (I did not even had a real chance to implement it)
+- JavaScript
+- Python
+- NodeJS
+- Bootstrap
+- Shell Script
+- Bitwise
+- Linux
+- GitHub
+- PHP
+- C++ (not advanced, but it's considerable)
+- Design Patterns
+- Electronic
+- Hardware
