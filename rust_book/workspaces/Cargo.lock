@@ -1,0 +1,11 @@
+[[package]]
+name = "addone"
+version = "0.1.0"
+
+[[package]]
+name = "workspaces"
+version = "0.1.0"
+dependencies = [
+ "addone 0.1.0",
+]
+
