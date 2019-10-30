@@ -1,0 +1,13 @@
+[package]
+name = "workspaces"
+version = "0.1.0"
+authors = ["foxxer <coluna123@protonmail.ch>"]
+edition = "2018"
+
+[dependencies]
+addone = { path = "./addone/" }
+
+[workspace]
+members = [
+    "addone"
+]
